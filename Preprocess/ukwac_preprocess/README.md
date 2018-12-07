@@ -15,7 +15,7 @@ Download corpora content and save it in an accessible location with additional s
 *  cut --delimiter=$'\t' -f1,3 ukwac_file > ukwac_words_.txt
 *  python3 extractSentences_V2.py
 *  Split the big file into smaller chunks
-	* split <bigFile> splitFilePrefix_ --number=l/1000 -e 
+	* split <bigFile> splitFilePrefix_ --number=l/100 -e 
 *  If decompressed file is created replacing .gz fil then execute 
 	* gzip -9 ukwac_file_
 *  else
