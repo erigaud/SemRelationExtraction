@@ -4,7 +4,7 @@ Data cleaning of the dataset ConceptNet
 
 ## Prerequisite:
 
-Download dataset and save it in an accessible location with additional storge space.(~ 10 GB)
+Download dataset and save it in an accessible location with additional storage space. (~ 10 GB)
 
 
 ## Steps for preprocessing:
