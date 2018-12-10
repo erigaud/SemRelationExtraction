@@ -4,7 +4,7 @@ Data cleaning and preprocessing on copora data for model execution.
 
 ## Prerequisite:
 
-Download corpora content and save it in an accessible location with additional storge space.(~ 30 GB)
+Download corpora content and save it in an accessible location with additional storage space.(~ 30 GB)
 
 
 ## Steps for preprocessing:
