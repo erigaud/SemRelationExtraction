@@ -13,4 +13,5 @@ Download dataset and save it in an accessible location with additional storage s
 * grep -P '(/en/.*?){4}' conceptnet-assertions-5.6.0.csv > ConceptNetEnglish.csv
 * cut ConceptNetEnglish.csv -f1 > ConceptNetEnglish_cut.csv
 * mv ConceptNetEnglish_cut.csv ConceptNetEnglish.csv
+* sed 's/^...//' ConceptNetEnglish.csv
 
