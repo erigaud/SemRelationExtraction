@@ -15,5 +15,5 @@ wget https://s3.amazonaws.com/conceptnet/downloads/2018/edges/conceptnet-asserti
 * cut ConceptNetEnglish.csv -f1 > ConceptNetEnglish_cut.csv
 * mv ConceptNetEnglish_cut.csv ConceptNetEnglish.csv
 * grep -P '(/v/.*?){2}' ConceptNetEnglish.csv > ConceptNetEnglish_verbs.csv
-* sed 's/^...//' ConceptNetEnglish_verbs.csv
+* sed 's/^...//' ConceptNetEnglish_verbs.csv -i
 
