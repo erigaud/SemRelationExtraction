@@ -5,6 +5,7 @@ Data cleaning of the dataset ConceptNet
 ## Prerequisite:
 
 Download dataset and save it in an accessible location with additional storage space. (~ 10 GB)
+
 wget https://s3.amazonaws.com/conceptnet/downloads/2018/edges/conceptnet-assertions-5.6.0.csv.gz
 
 ## Steps for preprocessing:
